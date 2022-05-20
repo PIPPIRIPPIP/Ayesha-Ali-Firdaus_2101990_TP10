@@ -1,0 +1,26 @@
+nav,
+footer {
+  background-color: #4db2ec;
+}
+
+.logo {
+  width: 50px;
+  margin-right: 10px;
+}
+
+.logoFooter {
+  width: 30px;
+}
+
+.jumbotron {
+  background-image: url("assets/images/Untitled-1.png");
+  background-size: cover;
+  padding: 6rem 6rem;
+}
+
+.created {
+  text-decoration: none;
+  color: white;
+}
+
+/*# sourceMappingURL=output.css.map */
